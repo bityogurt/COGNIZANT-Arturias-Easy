@@ -1,0 +1,8 @@
+Team name:
+	Arturias
+Team members:
+	Codin Handrău
+	Alin Angheluș
+	Corcan Ștefan Horus
+Difficulty:
+	easy

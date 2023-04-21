@@ -21,7 +21,3 @@ Please periodically commit changes.
 
 ## Resources
 There is a resource folder which contains a CSV file which will be required for one of the challenges.
-
-
-Team members: Codin Handrău, Alin Angheluș, Corcan Ștefan Horus
-Difficulty: easy
