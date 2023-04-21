@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "c7f6a7d6-5857-44b6-9673-cdf123811850",
+		"name": "CodeRun test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26994537"
+	},
+	"item": [
+		{
+			"name": "get books request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
