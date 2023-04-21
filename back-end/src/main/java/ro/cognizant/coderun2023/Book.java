@@ -22,4 +22,8 @@ public class Book {
     @Column(name = "publishers")
     private String publishers;
 
+    public String toString(){
+        return "Book{ bookName = " + this.bookName + ", author = " + this.author + ", publishers = " + this.publishers + "}";
+    }
+
 }
